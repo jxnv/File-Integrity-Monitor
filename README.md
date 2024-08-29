@@ -1,6 +1,6 @@
 ## Usage
 
-1. Clone the repository and navigate to the project directory.
+1. Clone the repository.
 
 2. Run the script using the following command:
 
